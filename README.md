@@ -1,5 +1,5 @@
 # Sovol-OrcaSlicer
 
-## 🌟 功能特点
-✅ **功能 1** - Orca官方更新过慢，创建一个只更新Sovol/Comgrow配置的GitHub。  
-✅ **功能 2** - 会定时同步更新Orca最新软件
+## 🌟 Features
+✅ **Function 1** - Orca official updates are too slow, create a GitHub that only updates Sovol/Comgrow configuration. 
+✅ **Function 2** - Will regularly synchronize and update the latest Orca software
