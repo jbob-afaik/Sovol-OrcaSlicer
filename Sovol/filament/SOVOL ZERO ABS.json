@@ -2,7 +2,7 @@
 	"type": "filament",
 	"filament_id": "GFL99",
 	"setting_id": "GFSA04",
-	"name": "SOVOL ZERO ABS",
+	"name": "Sovol ZERO ABS",
 	"from": "system",
 	"instantiation": "true",
 	"inherits": "fdm_filament_abs",
@@ -68,6 +68,6 @@
     "additional_cooling_fan_speed":["0"],
     "is_custom_defined": "0",
     "compatible_printers": [
-		"SOVOL ZERO 0.4 nozzle"
+		"Sovol ZERO 0.4 nozzle"
 	]
 }

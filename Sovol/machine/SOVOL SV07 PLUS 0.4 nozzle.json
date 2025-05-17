@@ -1,12 +1,12 @@
 {
   "type": "machine",
   "setting_id": "GM001",
-  "name": "SOVOL SV07 PLUS 0.4 nozzle",
+  "name": "Sovol SV07 Plus 0.4 nozzle",
   "from": "system",
   "instantiation": "true",
   "inherits": "fdm_machine_common",
-  "printer_model": "SOVOL SV07 PLUS",
-	"default_print_profile": "0.20mm Standard @SOVOL SV07 PLUS",
+  "printer_model": "Sovol SV07 Plus",
+	"default_print_profile": "0.20mm Standard @Sovol SV07 Plus",
   "nozzle_diameter": [
     "0.4"
   ],

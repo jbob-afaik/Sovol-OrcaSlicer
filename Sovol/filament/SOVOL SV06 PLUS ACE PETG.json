@@ -2,7 +2,7 @@
 	"type": "filament",
 	"filament_id": "GFL99",
 	"setting_id": "GFSA04",
-	"name": "SOVOL SV06 PLUS ACE PETG",
+	"name": "Sovol SV06 Plus ACE PETG",
 	"from": "system",
 	"instantiation": "true",
 	"inherits": "fdm_filament_pet",
@@ -12,10 +12,10 @@
         "3"
     ],
 	"compatible_printers": [
-        "SOVOL SV06 PLUS ACE 0.2 nozzle",
-        "SOVOL SV06 PLUS ACE 0.4 nozzle",
-        "SOVOL SV06 PLUS ACE 0.6 nozzle",
-        "SOVOL SV06 PLUS ACE 0.8 nozzle"
+        "Sovol SV06 Plus ACE 0.2 nozzle",
+        "Sovol SV06 Plus ACE 0.4 nozzle",
+        "Sovol SV06 Plus ACE 0.6 nozzle",
+        "Sovol SV06 Plus ACE 0.8 nozzle"
 	],
 	"fan_min_speed": [
         "30"

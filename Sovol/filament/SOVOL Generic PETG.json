@@ -2,7 +2,7 @@
     "type": "filament",
 	"filament_id": "GFG99",
     "setting_id": "GFSG99",
-    "name": "SOVOL Generic PETG",
+    "name": "Sovol Generic PETG",
     "from": "system",
     "instantiation": "true",
     "inherits": "fdm_filament_pet",
@@ -61,10 +61,10 @@
         "75"
     ],
 	"compatible_printers": [
-		"SOVOL SV01 PRO 0.4 nozzle",
-		"SOVOL SV02 0.4 nozzle",
-		"SOVOL SV05 0.4 nozzle",
-		"SOVOL SV06 0.4 nozzle",
-        "SOVOL SV06 PLUS 0.4 nozzle"
+		"Sovol SV01 Pro 0.4 nozzle",
+		"Sovol SV02 0.4 nozzle",
+		"Sovol SV05 0.4 nozzle",
+		"Sovol SV06 0.4 nozzle",
+        "Sovol SV06 Plus 0.4 nozzle"
 	]
 }

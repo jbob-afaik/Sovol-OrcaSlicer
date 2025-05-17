@@ -2,7 +2,7 @@
     "type": "filament",
 	"filament_id": "GFL99",
     "setting_id": "GFSL99",
-    "name": "SOVOL Generic TPU",
+    "name": "Sovol Generic TPU",
     "from": "system",
     "instantiation": "true",
     "inherits": "fdm_filament_tpu",
@@ -40,10 +40,10 @@
         "65"
     ],
 	"compatible_printers": [
-		"SOVOL SV01 PRO 0.4 nozzle",
-		"SOVOL SV02 0.4 nozzle",
-		"SOVOL SV05 0.4 nozzle",
-		"SOVOL SV06 0.4 nozzle",
-        "SOVOL SV06 PLUS 0.4 nozzle"
+		"Sovol SV01 Pro 0.4 nozzle",
+		"Sovol SV02 0.4 nozzle",
+		"Sovol SV05 0.4 nozzle",
+		"Sovol SV06 0.4 nozzle",
+        "Sovol SV06 Plus 0.4 nozzle"
 	]
 }

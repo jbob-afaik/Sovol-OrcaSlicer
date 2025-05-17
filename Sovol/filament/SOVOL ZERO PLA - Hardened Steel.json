@@ -2,7 +2,7 @@
 	"type": "filament",
 	"filament_id": "GFL99",
 	"setting_id": "GFSA04",
-	"name": "SOVOL ZERO PLA - Hardened Steel",
+	"name": "Sovol ZERO PLA - Hardened Steel",
 	"from": "system",
 	"instantiation": "true",
 	"inherits": "fdm_filament_pla",
@@ -11,7 +11,7 @@
     "enable_pressure_advance": "1",
     "pressure_advance": "0.03",
 	"compatible_printers": [
-		"SOVOL ZERO 0.4 nozzle"
+		"Sovol ZERO 0.4 nozzle"
 	],
 	"nozzle_temperature_initial_layer": [
         "245"

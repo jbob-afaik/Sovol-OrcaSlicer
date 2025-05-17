@@ -2,7 +2,7 @@
 	"type": "filament",
 	"filament_id": "GFL99",
 	"setting_id": "GFSA04",
-	"name": "SOVOL SV07 PLUS PLA",
+	"name": "Sovol SV07 Plus PLA",
 	"from": "system",
 	"instantiation": "true",
 	"inherits": "fdm_filament_pla",
@@ -13,7 +13,7 @@
         "3"
     ],
 	"compatible_printers": [
-		"SOVOL SV07 PLUS 0.4 nozzle"
+		"Sovol SV07 Plus 0.4 nozzle"
 	],
 	"fan_min_speed": [
         "100"
