@@ -14,10 +14,7 @@
         "3"
     ],
 	"compatible_printers": [
-		"Sovol SV07 0.4 nozzle",
-        "Sovol SV07 0.6 nozzle",
-        "Sovol SV07 0.8 nozzle",
-        "Sovol SV07 1.0 nozzle"
+		"Sovol SV07 0.4 nozzle"
 	],
 	"fan_min_speed": [
         "100"
