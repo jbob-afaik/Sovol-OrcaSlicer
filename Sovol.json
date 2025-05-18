@@ -108,6 +108,10 @@
             "sub_path": "process/0.12mm Standard @Sovol SV06 ACE 0.2 nozzle.json"
         },
         {
+            "name": "0.12mm Standard @Sovol SV06 Plus ACE 0.2 nozzle",
+            "sub_path": "process/0.12mm Standard @Sovol SV06 Plus ACE 0.2 nozzle.json"
+        },
+        {
             "name": "0.08mm High Quality @Sovol SV06 ACE 0.4 nozzle",
             "sub_path": "process/0.08mm High Quality @Sovol SV06 ACE 0.4 nozzle.json"
         },
@@ -122,6 +126,10 @@
         {
             "name": "0.30mm Standard @Sovol SV06 ACE 0.6 nozzle",
             "sub_path": "process/0.30mm Standard @Sovol SV06 ACE 0.6 nozzle.json"
+        },
+        {
+            "name": "0.30mm Standard @Sovol SV06 Plus ACE 0.6 nozzle",
+            "sub_path": "process/0.30mm Standard @Sovol SV06 Plus ACE 0.6 nozzle.json"
         },
         {
             "name": "0.40mm Standard @Sovol SV06 ACE 0.8 nozzle",
