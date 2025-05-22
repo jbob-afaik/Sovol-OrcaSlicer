@@ -2,7 +2,7 @@
     "type": "machine_model",
     "name": "Sovol SV06",
     "model_id": "Sovol-SV06",
-    "nozzle_diameter": "0.4",
+    "nozzle_diameter": "0.2;0.3.;0.4;0.5;0.6",
     "machine_tech": "FFF",
     "family": "Sovol",
     "bed_model": "sovol_220_220_buildplate_model.stl",

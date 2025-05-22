@@ -6,11 +6,17 @@
 	"instantiation": "true",
 	"inherits": "fdm_machine_common",
 	"printer_model": "Sovol ZERO",
-	"default_print_profile": "0.20mm Standard @Sovol ZERO",
+	"default_print_profile": "0.20mm Standard @Sovol ZERO 0.4 nozzle",
     "printer_variant": "0.4",
 	"nozzle_diameter": [
 		"0.4"
 	],
+    "min_layer_height": [
+        "0.08"
+    ],
+    "max_layer_height": [
+        "0.32"
+    ],
     "retract_before_wipe": [
         "100%"
     ],

@@ -1,7 +1,7 @@
 {
 	"type": "process",
 	"setting_id": "GP004",
-	"name": "0.18mm Optimal @Sovol SV01Pro",
+	"name": "0.18mm Optimal @Sovol SV01 Pro",
 	"from": "system",
 	"inherits": "fdm_process_common",
 	"instantiation": "true",

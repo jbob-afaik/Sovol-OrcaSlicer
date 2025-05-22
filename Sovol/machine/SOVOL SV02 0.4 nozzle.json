@@ -8,7 +8,6 @@
 	"printer_model": "Sovol SV02",
 	"default_print_profile": "0.20mm Standard @Sovol SV02",
 	"nozzle_diameter": [
-		"0.4",
 		"0.4"
 	],
     "extruder_colour": [
@@ -85,7 +84,6 @@
 		"0.4"
 	],
 	"max_layer_height": [
-		"0.32",
 		"0.32"
 	],
 	"min_layer_height": [

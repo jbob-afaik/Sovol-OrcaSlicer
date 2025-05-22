@@ -81,7 +81,6 @@
 		"Auto Lift"
 	],
 	"max_layer_height": [
-		"0.16",
 		"0.16"
 	],
 	"retract_lift_below": [

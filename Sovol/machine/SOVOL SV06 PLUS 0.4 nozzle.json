@@ -6,7 +6,7 @@
 	"instantiation": "true",
 	"inherits": "fdm_machine_common",
 	"printer_model": "Sovol SV06 Plus",
-	"default_print_profile": "0.20mm Standard @Sovol SV06Plus",
+	"default_print_profile": "0.20mm Standard @Sovol SV06 Plus nozzle",
 	"nozzle_diameter": [
 		"0.4"
 	],
@@ -76,7 +76,7 @@
 		"0.4"
 	],
 	"max_layer_height": [
-		"0.25"
+		"0.32"
 	],
 	"min_layer_height": [
 		"0.07"
