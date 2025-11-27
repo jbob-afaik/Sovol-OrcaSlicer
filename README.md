@@ -2,7 +2,5 @@
 
 ## 🌟 Features
 
-✅ **Function 1** - Orca official updates are too slow, create a GitHub that only updates Sovol/Comgrow configuration. 
-
-✅ **Function 2** - Will regularly synchronize and update the latest Orca software
+✅ **Function 1** - Just a fork from Sovol's repo in order to add missing profiles and sizes and possibly do a little cleanup
 
