@@ -94,7 +94,7 @@
     {
       "name": "0.20mm Standard @Sovol SV02",
       "sub_path": "process/0.20mm Standard @Sovol SV02.json"
-    },	
+    },  
     {
       "name": "0.28mm Fast @Sovol SV02",
       "sub_path": "process/0.28mm Fast @Sovol SV02.json"
@@ -128,8 +128,8 @@
       "sub_path": "process/0.12mm Quality @Sovol SV06 Plus ACE 0.4 nozzle.json"
     },
     {
-      "name": "0.28mm Fast @Sovol SV06 Plus ACE 0.4 nozzle",
-      "sub_path": "process/0.28mm Fast @Sovol SV06 Plus ACE 0.4 nozzle.json"
+      "name": "0.25mm Fast @Sovol SV06 Plus ACE 0.4 nozzle",
+      "sub_path": "process/0.25mm Fast @Sovol SV06 Plus ACE 0.4 nozzle.json"
     },
     {
       "name": "0.12mm High Quality @Sovol SV07 0.4 nozzle",
@@ -677,6 +677,10 @@
     }
   ],
   "filament_list": [
+    {
+      "name": "Fast PLA",
+      "sub_path": "filament/Fast PLA.json"
+    },
     {
       "name": "fdm_filament_common",
       "sub_path": "filament/fdm_filament_common.json"
