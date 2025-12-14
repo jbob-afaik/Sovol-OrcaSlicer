@@ -3,18 +3,25 @@
     "setting_id": "GM001",
     "name": "Sovol SV06 Plus ACE 0.4 nozzle",
     "from": "system",
-    "inherits": "fdm_machine_common",
     "instantiation": "true",
     "before_layer_change_gcode": "TIMELAPSE_TAKE_FRAME\nG92 E0",
-    "change_filament_gcode": "M600",
+    "change_filament_gcode": "",
+    "printer_technology": "FFF",
     "default_filament_profile": [
         "Sovol SV06 Plus ACE PLA"
+    ],
+    "extruder_colour": [
+        "#FCE94F"
+    ],
+    "extruder_offset": [
+        "0x0"
     ],
     "default_print_profile": "0.20mm Standard @Sovol SV06 Plus ACE 0.4 nozzle",
     "deretraction_speed": [
         "45"
     ],
     "gcode_flavor": "klipper",
+    "silent_mode": "0",
     "machine_end_gcode": "END_PRINT\n",
     "machine_max_acceleration_e": [
         "5000"
@@ -55,6 +62,12 @@
     "machine_max_speed_x": [
         "500"
     ],
+    "machine_min_extruding_rate": [
+        "0"
+    ],
+    "machine_min_travel_rate": [
+        "0"
+    ],
     "machine_max_speed_y": [
         "500"
     ],
@@ -67,16 +80,23 @@
     "max_layer_height": [
         "0.32"
     ],
+    "min_layer_height": [
+        "0.08"
+    ],
+    "printable_height": "300",
+    "extruder_clearance_radius": "65",
+    "extruder_clearance_height_to_rod": "36",
+    "extruder_clearance_height_to_lid": "140",
     "nozzle_diameter": [
         "0.4"
     ],
+    "printer_settings_id": "",
     "printable_area": [
         "0x0",
         "300x0",
         "300x300",
         "0x300"
     ],
-    "printable_height": "350",
     "printer_model": "Sovol SV06 Plus ACE",
     "printer_variant": "0.4",
     "retract_before_wipe": [
@@ -84,6 +104,9 @@
     ],
     "retract_length_toolchange": [
         "2"
+    ],
+    "retract_when_changing_layer": [
+        "1"
     ],
     "retract_lift_below": [
         "343"
@@ -94,9 +117,16 @@
     "retraction_minimum_travel": [
         "1"
     ],
+    "retract_restart_extra": [
+        "0"
+    ],
+    "retract_restart_extra_toolchange": [
+        "0"
+    ],
     "retraction_speed": [
         "45"
     ],
+    "single_extruder_multi_material": "1",
     "support_multi_bed_types": "1",
     "thumbnails": [
         "96x96",
