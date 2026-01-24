@@ -90,7 +90,7 @@
     "solid_infill_direction": "0",
     "sparse_infill_density": "10%",
     "sparse_infill_line_width": "0.5",
-    "sparse_infill_pattern": "rectilinear",
+    "sparse_infill_pattern": "gyroid",
     "sparse_infill_speed": "350",
     "spiral_mode": "0",
     "standby_temperature_delta": "-5",
