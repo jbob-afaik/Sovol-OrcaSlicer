@@ -1,12 +1,15 @@
 {
-    "type": "machine_model",
-    "name": "Sovol SV08",
-    "model_id": "Sovol-SV08",
-    "nozzle_diameter": "0.4;0.2;0.6;0.8",
-    "machine_tech": "FFF",
-    "family": "Sovol",
-    "bed_model": "sovol_350_350_buildplate_model.stl",
-    "bed_texture": "sovol_sv08_buildplate_texture.png",
-    "hotend_model": "",
-	"default_materials": "Sovol SV08 PLA;Sovol SV08 PLA @SV08 0.2 nozzle;Sovol SV08 ABS;Sovol SV08 PETG;Sovol SV08 TPU"    
+  "bed_model": "sovol_350_350_buildplate_model.stl",
+  "bed_texture": "sovol_sv08_buildplate_texture.png",
+  "default_materials": "Sovol Generic PLA;Sovol Generic PETG;Sovol Generic TPU;Sovol Generic ABS",
+  "family": "Sovol",
+  "hotend_model": "",
+  "machine_tech": "FFF",
+  "model_id": "Sovol-SV08",
+  "name": "Sovol SV08",
+  "nozzle_diameter": "0.4;0.2;0.6;0.8",
+  "type": "machine_model",
+  "from": "system",
+  "instantiation": "true",
+  "setting_id": "Sovol SV08"
 }
