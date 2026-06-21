@@ -4,8 +4,9 @@
   "name": "Sovol SV06 Plus ACE 0.4 nozzle",
   "from": "system",
   "instantiation": "true",
+  "inherits": "fdm_machine_common",
   "before_layer_change_gcode": "TIMELAPSE_TAKE_FRAME\nG92 E0",
-  "change_filament_gcode": "",
+  "change_filament_gcode": "M600",
   "printer_technology": "FFF",
   "default_filament_profile": [
     "Sovol SV06 Plus ACE PLA"

@@ -123,7 +123,6 @@
   "compatible_printers": [
     "Sovol SV06 Plus ACE 0.4 nozzle"
   ],
-  "max_volumetric_speed": "19.0",
   "slow_down_for_overhangs": "1",
   "overhang_speed": "30",
   "bridge_flow_ratio": "1.0",
