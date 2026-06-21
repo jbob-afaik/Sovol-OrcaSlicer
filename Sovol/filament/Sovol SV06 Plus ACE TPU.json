@@ -15,7 +15,12 @@
   "full_fan_speed_layer": [
     "3"
   ],
-  "compatible_printers": "Sovol",
+  "compatible_printers": [
+    "Sovol SV06 Plus ACE 0.2 nozzle",
+    "Sovol SV06 Plus ACE 0.4 nozzle",
+    "Sovol SV06 Plus ACE 0.6 nozzle",
+    "Sovol SV06 Plus ACE 0.8 nozzle"
+  ],
   "fan_min_speed": [
     "100"
   ],
@@ -27,9 +32,6 @@
   ],
   "slow_down_layer_time": [
     "5"
-  ],
-  "slow_down_min_speed": [
-    "10"
   ],
   "nozzle_temperature_initial_layer": [
     "250"
@@ -48,5 +50,8 @@
   ],
   "hot_plate_temp": [
     "65"
+  ],
+  "slow_down_min_speed": [
+    "10"
   ]
 }

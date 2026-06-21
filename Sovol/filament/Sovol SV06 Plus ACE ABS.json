@@ -15,7 +15,12 @@
   "full_fan_speed_layer": [
     "3"
   ],
-  "compatible_printers": "Sovol",
+  "compatible_printers": [
+    "Sovol SV06 Plus ACE 0.2 nozzle",
+    "Sovol SV06 Plus ACE 0.4 nozzle",
+    "Sovol SV06 Plus ACE 0.6 nozzle",
+    "Sovol SV06 Plus ACE 0.8 nozzle"
+  ],
   "fan_min_speed": [
     "30"
   ],
